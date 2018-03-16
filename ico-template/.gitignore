@@ -1,0 +1,21 @@
+# Compiled class file
+*.class
+
+# System files
+*.DS_Store
+
+# Eclipse IDE files
+*.classpath
+*.project
+.settings
+.settings/*
+*/.settings/
+*/.settings/*
+local
+target
+
+# Package Files #
+*.jar
+*.war
+*.ear
+*.zip
